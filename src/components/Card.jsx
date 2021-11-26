@@ -43,7 +43,7 @@ export default function ActionAreaCard() {
               sendData(event, users);
             }}
           >
-            SEND DATA
+            CLICK TO SEND DATA
           </button>
         </CardContent>
       </CardActionArea>
